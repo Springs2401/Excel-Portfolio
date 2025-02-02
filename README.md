@@ -1,6 +1,6 @@
 # Excel Portfolio Project
 
-This repository contains my MS Excel portfolio project, which I worked on during my Data Science and AI bootcamp with Atomcamp. The project involves analyzing sales trends, identifying key insights, and using various Excel functions to answer business-related questions.
+This repository contains my MS Excel portfolio project, which I worked on during my Data Science and AI bootcamp with atomcamp. The project involves analyzing sales trends, identifying key insights, and using various Excel functions to answer business-related questions.
 
 ## About the Project
 The dataset in this project contains sales data, and I have used Excel formulas, PivotTables, charts, and conditional formatting to answer different business-related questions.
